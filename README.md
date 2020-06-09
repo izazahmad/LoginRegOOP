@@ -1,4 +1,4 @@
-Online registration and login system by using PHP, CSS, Bootstrap,Html
+Online registration and login system by using PHP(OOP technique), CSS, Bootstrap,Html
 
 -Create database as given below.
 -registration create standard user only.
