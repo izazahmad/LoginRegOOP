@@ -1,0 +1,24 @@
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.wrapper {
+    min-height: calc(100vh - 119px);
+    overflow: auto;
+    width: 100%;
+    background-color:darkslategray;
+    display: table;
+}
+.error {
+    margin: 0 auto;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+    width: 30%;
+}
+.profile-list {
+    list-style: none;
+}
+.profile-list li {
+    margin-bottom: 10px;
+}
